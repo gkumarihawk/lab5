@@ -4,3 +4,10 @@ td{
 	text-align: center;
 	border: 2px solid;
 }
+tr{
+	border: 2px solid;
+	text-align: center;
+	background-color: blueviolet;
+	font-weight: bold;
+	font-size: medium;
+}
