@@ -10,4 +10,15 @@ tr{
 	background-color: blueviolet;
 	font-weight: bold;
 	font-size: medium;
+}body{
+	background-image: url(../media/background.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: skyblue;
+	font-size: 20px;
+}
+#planets {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
 }
