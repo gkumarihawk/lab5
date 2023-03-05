@@ -2,10 +2,10 @@ td{
 	color: darkblue;
 	background-color: rgb(95, 117, 255);
 	text-align: center;
-	border: 2px solid;
+	border: 3px solid;
 }
 tr{
-	border: 2px solid;
+	border: 3px solid;
 	text-align: center;
 	background-color: blueviolet;
 	font-weight: bold;
@@ -23,3 +23,11 @@ tr{
 	margin-left: auto;
 	margin-right: auto;
 }
+h1 {
+    background-color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font: bold 30px Poppins, fantasy;
+}
+
+
