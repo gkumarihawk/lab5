@@ -29,5 +29,11 @@ h1 {
     font-family: fantasy;
     font: bold 30px Poppins, fantasy;
 }
-
+table{
+	color: blue;
+	background-color: rgb(0,0,54);
+	border: 4px aliceblue;
+	border-collapse: collapse;
+	width: 100%;
+}
 
