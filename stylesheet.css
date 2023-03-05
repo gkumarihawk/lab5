@@ -11,11 +11,12 @@ tr{
 	font-weight: bold;
 	font-size: medium;
 }body{
-	background-image: url(../media/background.jpeg);
+	background-image: url(media/background.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: skyblue;
 	font-size: 20px;
+	font-family: 'Times New Roman', Times, sans-serif;
 }
 #planets {
 	border-collapse: collapse;
